@@ -1,4 +1,4 @@
-# Used
+# Readme
 
 React
 Prettier
@@ -7,6 +7,42 @@ react router dom
 styled-componentes 
 styled-system
 
+https://www.youtube.com/watch?v=AW_rSUpDBRo
+
+Flávio Ribeiro 
+Ex-react to do portifolio. 
+Padrões de desenvolvimento;
+Javascript / Typescript
+MySQL
+Docker
+C#
+React
+
+Necessário
+
+Experiência na função;
+Graduação completa na área de TI.
+Nossos benefícios são 🤩:
+
+Vale Refeição e Alimentação acima da média de mercado (cartão de modalidade crédito que pode ser usado para alimentação ou mercado)
+Vale Transporte ou Auxílio Combustível (para quem atua presencialmente).
+Plano de saúde e odontológico (Bradesco Saúde Top Nacional).
+Todos os benefícios não possuem coparticipação ou desconto em folha (até mesmo para dependentes).
+Participação dos Lucros (Anual) que tem nos deixado felizes nos últimos anos.
+Incentivo para cursos de idiomas.
+Auxílio de custo para pós-graduação.
+Auxílio home office.
+Disponibilização de equipamentos para atuação em home office.
+Aqui também você encontra 💡:
+
+Incentivo à participação de eventos.
+Incentivo à treinamentos com especialistas em plataformas online; disponibilizamos cursos EAD (Mobiflix) e licença da Alura para capacitação constante do nosso time.
+Relações de trabalho em um ambiente horizontal.
+Eventos internos (quando voltarmos para o presencial): aniversariantes do mês, festa junina, aniversário da empresa, etc;
+Mesmo em home office, não deixamos passar em branco datas comemorativas. Por isso fazemos ações como entrega de bolo na casa dos aniversariantes do mês.
+Não há dress code formal; você pode usar a vestimenta que mais considera confortável. Pode ir, por exemplo, de bermuda e chinelo para o trabalho!
+Espaço para descontração na sede do RJ: ping-pong, sinuca, videogame, jogo de dardo, dentre outros jogos e também shiatsu para poder relaxar um pouco!
+Aqui nós valorizamos trocas, inovação e temos foco em pessoas. Acreditamos em relações duradouras, baseadas na transparência e ética.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
